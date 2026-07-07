@@ -4,33 +4,46 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge)
 
----
-
-## 📌 Project Overview
-
-This Power BI dashboard analyzes student performance using interactive visualizations. It provides insights into students' academic performance based on gender, race/ethnicity, parental education, lunch type, and test preparation course.
+An interactive **Power BI Dashboard** that analyzes student academic performance using various visualizations, KPIs, and filters. This project helps identify trends in student performance based on gender, parental education, lunch type, race/ethnicity, and test preparation.
 
 ---
 
-## 📋 Project Details
+# 📌 Project Overview
+
+This dashboard was created using **Power BI** to analyze student performance data and present meaningful insights through interactive charts and KPIs.
+
+The dashboard allows users to explore:
+
+- Student Performance
+- Gender-wise Analysis
+- Average Scores
+- Test Preparation Impact
+- Lunch Type Analysis
+- Race/Ethnicity Analysis
+- Interactive Filtering
+
+---
+
+# 📋 Project Details
 
 | Category | Details |
-|----------|----------|
-| 📊 Tool | Power BI |
+|-----------|----------|
+| 📊 Tool | Power BI Desktop |
 | 📂 Dataset | Student Performance Dataset |
 | 🎯 Domain | Education Analytics |
 | 👨‍💻 Developed By | Vishwa R |
 
 ---
 
-## 🛠️ Tools Used
+# 🛠️ Technologies Used
 
-- Power BI
+- Power BI Desktop
 - Microsoft Excel
+- GitHub
 
 ---
 
-## 📈 Dashboard Features
+# 📈 Dashboard Features
 
 - 📌 Total Students
 - 📌 Average Math Score
@@ -38,49 +51,100 @@ This Power BI dashboard analyzes student performance using interactive visualiza
 - 📌 Average Writing Score
 - 📌 Overall Average Score
 - 📌 Pass Percentage
-- 📌 Interactive Filters (Gender, Lunch, Grade, Race/Ethnicity, Test Preparation)
+- 📌 Gender Analysis
+- 📌 Lunch Type Analysis
+- 📌 Race/Ethnicity Analysis
+- 📌 Test Preparation Analysis
+- 📌 Interactive Filters (Slicers)
 - 📌 KPI Cards
-- 📌 Pie Charts
 - 📌 Bar Charts
-- 📌 Slicers
+- 📌 Pie Charts
 
 ---
 
-## 💡 Key Insights
-
-- Female students performed better in reading and writing.
-- Students who completed the test preparation course achieved higher average scores.
-- Interactive filters make it easy to compare different student groups.
-
----
-
-## 📸 Dashboard Preview
+# 📊 Dashboard Preview
 
 ![Student Performance Dashboard](dashboard.png)
 
 ---
 
-## 🎥 Demo Video
+# 💡 Key Insights
 
-▶️ [Watch Dashboard Demo](https://github.com/vishwaofficial1511-jpg/student-performance-dashboard/blob/main/dashboard-demo.mp4)
-
----
-
-## 📂 Repository Contents
-
-- 📄 StudentPerformance.pbix
-- 📊 StudentsPerformance.csv
-- 🖼️ dashboard.png
-- 🎥 dashboard-demo.mp4
-- 📝 README.md
+- Female students generally performed better in Reading and Writing.
+- Students who completed the Test Preparation Course scored higher on average.
+- Lunch type and parental education level showed noticeable differences in student performance.
+- Interactive filters help compare multiple student groups easily.
 
 ---
 
-## 👨‍💻 Author
+# 📁 Repository Contents
 
-**Vishwa R**
+| File | Description |
+|------|-------------|
+| 📊 StudentPerformance.pbix | Power BI Dashboard |
+| 📄 StudentsPerformance.csv | Dataset |
+| 🖼️ dashboard.png | Dashboard Screenshot |
+| 🎥 dashboard-demo.mp4 | Dashboard Demo Video |
+| 📝 README.md | Project Documentation |
 
-B.Tech Artificial Intelligence and Data Science Student
+---
+
+# 📥 Download Project Files
+
+### 📊 Power BI Dashboard
+
+👉 [StudentPerformance.pbix](https://github.com/vishwaofficial1511-jpg/student-performance-dashboard/blob/main/StudentPerformance.pbix)
+
+### 📄 Dataset
+
+👉 [StudentsPerformance.csv](https://github.com/vishwaofficial1511-jpg/student-performance-dashboard/blob/main/StudentsPerformance.csv)
+
+### 🎥 Demo Video
+
+👉 [Watch Dashboard Demo](https://github.com/vishwaofficial1511-jpg/student-performance-dashboard/blob/main/dashboard-demo.mp4)
+
+---
+
+# 📂 Dataset Columns
+
+- Gender
+- Race/Ethnicity
+- Parental Level of Education
+- Lunch
+- Test Preparation Course
+- Math Score
+- Reading Score
+- Writing Score
+
+---
+
+# 🚀 How to Open the Project
+
+1. Download **StudentPerformance.pbix**
+2. Open it using **Power BI Desktop**
+3. Explore the dashboard using the available filters and slicers.
+
+---
+
+# 🎯 Learning Outcomes
+
+Through this project, I learned:
+
+- Data Cleaning
+- Data Visualization
+- KPI Design
+- Interactive Dashboard Creation
+- Power BI Slicers
+- Data Storytelling
+- Dashboard Design Best Practices
+
+---
+
+# 👨‍💻 Author
+
+## Vishwa R
+
+**B.Tech Artificial Intelligence and Data Science**
 
 ### Skills
 
@@ -93,4 +157,11 @@ B.Tech Artificial Intelligence and Data Science Student
 
 ---
 
-⭐ If you found this project useful, consider giving it a Star!
+## 🔗 Connect with Me
+
+- GitHub: https://github.com/vishwaofficial1511-jpg
+- LinkedIn: https://www.linkedin.com/in/vishwa-r-21615a7347
+
+---
+
+⭐ If you found this project useful, please consider giving it a **Star**.
