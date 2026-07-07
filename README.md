@@ -59,7 +59,9 @@ Student Performance Dataset
 ![Student Performance Dashboard](dashboard.png)
 
 ---
+## 🎥 Demo Video
 
+▶️ [Watch Dashboard Demo](https://github.com/vishwaofficial1511-jpg/student-performance-dashboard/blob/main/dashboard-demo.mp4)
 
 ## 👨‍💻 Author
 
